@@ -1,2 +1,2 @@
 # JavascriptDemo
-Some Basic javascripts codes that help us to understand work flow of javascript.
+Some Basic codes that help us to understand work flow of javascript.
